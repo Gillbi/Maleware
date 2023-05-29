@@ -1,0 +1,1 @@
+Le code compile avec MASM32. Il faut donc un .bat qui compile le .asm et donne le .exe.
